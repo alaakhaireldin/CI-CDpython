@@ -37,4 +37,3 @@ jobs:
         run: |
           sudo pip3 install pytest
           pipenv run test -v
-          python -m pytest
